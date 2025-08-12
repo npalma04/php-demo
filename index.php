@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo PRD 1';
+echo 'Hola mundo PRD 2';
 ?>
