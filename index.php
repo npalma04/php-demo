@@ -1,3 +1,3 @@
 <?php
-echo 'Hola mundo estamos en DR 2';
+echo 'Hola mundo estamos en DR 1';
 ?>
